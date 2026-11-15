@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+/reconstructed/
+/refit/populations/
+/refit/groups/membership.tsv.gz
+/glbio-2027-v0.5.9-evidence.zip
+/supplement-glbio-2027-v0.5.9.pdf

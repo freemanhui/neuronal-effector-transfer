@@ -1,0 +1,5 @@
+# Reader environment used for the scientific runs: CPython 3.11.17, OpenBLAS 0.3.34.
+numpy==2.4.6
+scipy==1.17.1
+scikit-learn==1.9.1
+threadpoolctl==3.7.0
